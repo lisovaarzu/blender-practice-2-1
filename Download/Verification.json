@@ -1,0 +1,28 @@
+{
+  "assets_verified": 28,
+  "zip_crc": "passed",
+  "zip_members_match_delivery": true,
+  "parts_reassembled_sha256": "58c9b8d9318da9ba9165c2ffb0c0575225565194029e662b4bbf0f7067a09adf",
+  "parts": [
+    {
+      "name": "Practice_2_1_Complete.zip.001",
+      "bytes": 73400320,
+      "sha256": "fe20a237f858767c2efdea092d11c92322265dd35ef031c788e591d12e212459"
+    },
+    {
+      "name": "Practice_2_1_Complete.zip.002",
+      "bytes": 73400320,
+      "sha256": "fbaa5043889bb0548588c09061b0600b513c41dc09fea36e570e7fab295e2054"
+    },
+    {
+      "name": "Practice_2_1_Complete.zip.003",
+      "bytes": 73400320,
+      "sha256": "55766980902b2de7c9af0cda5f89bd5cf505f13308ed3b4634d913a0d98554ea"
+    },
+    {
+      "name": "Practice_2_1_Complete.zip.004",
+      "bytes": 39695613,
+      "sha256": "a0b389cb7ba80a435febea9b379ae59f9ee6057e8973231ae04798edd8f79b47"
+    }
+  ]
+}
