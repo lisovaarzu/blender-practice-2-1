@@ -47,4 +47,4 @@
 - При повторном импорте обновлённых FBX совпали трансформации всех 110 пар и UV LowPoly. По наборам в LowPoly — Packaging 1 804, Decor 7 304, Cosmetics 848, Mirror 44 треугольника.
 - После повторного открытия BLEND проверены все 15 упакованных изображений. Архив PBR проверен на целостность.
 
-Комплект в GitHub Release [Mi Yue — Textured](https://github.com/lisovaarzu/blender-practice-2-1/releases/tag/mi-yue-textured-v1) содержит BLEND и архив карт полного разрешения.
+BLEND и архив карт полного разрешения хранятся в Git LFS в ветке `Mi_Yue_Textured`. Прямые ссылки на оба файла собраны на странице [Mi Yue — Textured](https://github.com/lisovaarzu/blender-practice-2-1/releases/tag/mi-yue-textured-v1).
